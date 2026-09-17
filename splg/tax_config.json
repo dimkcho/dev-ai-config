@@ -1,0 +1,16 @@
+{
+  "vatRate": 10,
+  "simplifiedThreshold": 104000000,
+  "eTaxInvoiceThreshold": 80000000,
+  "fixedAssetThreshold": 1000000,
+  "bookkeepingThresholds": {
+    "wholesaleRetail": 300000000,
+    "manufacturingConstruction": 150000000,
+    "servicesFreelance": 75000000
+  },
+  "effectiveFrom": "2026-01-01T00:00:00.000",
+  "receiptThreshold": 30000,
+  "evidencePenaltyRate": 2,
+  "noBookPenaltyRate": 20,
+  "smallBusinessThreshold": 48000000
+}
